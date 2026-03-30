@@ -21,9 +21,11 @@ public class Main {
         System.out.println("from sahithya");
 
 
-   int a=10;
-   int b=20;
+   int a=10,b=100,c=1000;
+
    System.out.println(sum(a,b));
+   System.out.println(sum(a,c));
+
 
 
     }
